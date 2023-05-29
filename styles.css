@@ -1,0 +1,21 @@
+* {
+    font-family: serif;
+    margin: 0;
+    padding: 0;
+    background-color: rgb(38, 38, 190);
+    background: 0%;
+}
+
+.nav2 {
+    display: flex;
+    list-style-type: none;
+    flex-direction: row;
+}
+
+/* .first {
+   
+}
+
+.second {
+    background-color: rgb(159, 159, 223);
+} */
